@@ -1,0 +1,31 @@
+=== EXAMPLE INTERACTIONS ===
+
+--- Calculator ---
+You: what is 15% of 200
+Assistant: 15% of 200 is 30.
+
+--- Email Writer ---
+You: write an email about a meeting postponement
+Assistant: Subject: Meeting Postponement Notice
+Dear Team, I wanted to inform you...
+
+--- Summarizer ---
+You: summarize: Artificial intelligence is rapidly transforming industries 
+worldwide. From healthcare to finance, AI tools are being adopted at 
+unprecedented rates. Experts predict this trend will continue growing.
+Choose style: short
+Assistant: AI is transforming multiple industries at a rapid pace, 
+with widespread adoption expected to continue growing.
+Original: 38 words | Summary: 18 words | Reduction: 52.6%
+
+--- Weather ---
+You: weather in karachi
+Assistant: Karachi: 30°C, Sunny
+
+--- Translator ---
+You: translate hello to french
+Assistant: The translation of 'hello' in French is: bonjour
+
+--- Data Analyzer ---
+You: what is the average of [10, 20, 30, 40, 50]
+Assistant: The average is 30.
